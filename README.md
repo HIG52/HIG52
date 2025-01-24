@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HIG52&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/HIG52"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **HIG52/HIG52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
